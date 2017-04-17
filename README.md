@@ -1,0 +1,3 @@
+It's a test example for this article: https://madaboutios.wordpress.com/2017/04/16/analysis-of-the-most-typical-case-of-retain-cycles-in-ios-apps-objective-c/
+
+Here one can find three the most common types of retain cycles and real-life example...
